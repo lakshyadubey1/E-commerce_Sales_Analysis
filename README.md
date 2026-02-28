@@ -109,6 +109,8 @@ Build a version in Power BI
 
 📂 Project Files
 
+Ecommerce_Sales_Dataset.xlsx
+
 Ecommerce_Sales_Analysis.xlsx
 
 Dashboard Screenshot
