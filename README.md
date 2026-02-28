@@ -113,7 +113,7 @@ Ecommerce_Sales_Dataset.xlsx
 
 Ecommerce_Sales_Analysis.xlsx
 
-Dashboard Screenshot
+Dashboard_Screenshot
 
 README.md
 
